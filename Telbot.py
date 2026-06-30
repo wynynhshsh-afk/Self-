@@ -15,9 +15,9 @@ from telegram.ext import (
 )
 
 # ---------------------- تنظیمات ----------------------
-BOT_TOKEN = "TOKEN_ربات_خودت"        # از @BotFather بگیر
-API_ID = 123456                      # از my.telegram.org بگیر
-API_HASH = "API_HASH_خودت"           # از my.telegram.org بگیر
+BOT_TOKEN = "8875179274:AAHg3DDrTRG0JoQ6ChXx44OBwKkuxuHNz2U"        # از @BotFather بگیر
+API_ID = 31830597                      # از my.telegram.org بگیر
+API_HASH = "e46aa2127ada5dc6c18821ed95a59ca8"           # از my.telegram.org بگیر
 # -------------------------------------------------------
 
 PHONE, CODE, PASSWORD = range(3)
